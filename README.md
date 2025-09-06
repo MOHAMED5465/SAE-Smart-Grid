@@ -27,7 +27,7 @@ Système de gestion de réseaux électriques intelligents à l'échelle urbaine.
 - Mesures par équipement avec valeurs et timestamps
 - Suivi de la production/consommation énergétique\
 \
-![Schéma logique](./docs/schema_logique.png)
+![Schéma logique](./images/schema_logique.png)
 ## Architecture
 
 **Système multi-couches :**
@@ -36,7 +36,7 @@ Système de gestion de réseaux électriques intelligents à l'échelle urbaine.
 - Gestion des données
 - Simulation de capteurs\
 \
-![Architecture](./docs/architecture.png)
+![Architecture](./images/architecture.png)
 ## Technologies
 
 - **Développement** : Java, Vert.x
