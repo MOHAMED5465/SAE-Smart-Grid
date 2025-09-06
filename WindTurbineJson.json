@@ -1,0 +1,8 @@
+{
+    "windturbine": 100,
+    "timestamp": 1741334062,
+    "data": {
+        "speed": 123.4,
+        "power": 123.4
+    }
+}
